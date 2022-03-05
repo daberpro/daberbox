@@ -1,0 +1,24 @@
+{
+  "name": "daberbox",
+  "version": "0.0.1",
+  "description": "tools by codecit team for 3d in web powered by three js cannon js and esbuild",
+  "main": "daberbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codecit/daberbox.git"
+  },
+  "keywords": [
+    "codecit",
+    "daberbox",
+    "3d"
+  ],
+  "author": "codecit",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/codecit/daberbox/issues"
+  },
+  "homepage": "https://github.com/codecit/daberbox#readme"
+}
